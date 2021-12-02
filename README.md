@@ -1,10 +1,8 @@
-<h1 align = center> Opa, bão?? Eu sou Bruno Zanella!! 🖖</h1>
+<h2 align = center> Opa, bão?? Eu sou Bruno Zanella!! 🖖</h2>
 </br>
 
-- 🌱 Atualmente estudo ADS na UNIDEP - Pato Branco
-- 🤓 interesse em HTML, CSS, JS
-- 📕 habilidades em Java, SQL
-- 🔎 curioso de natureza
- 
-  
-  ##
+<h4 align = center> - 🌱 Acadêmico de ADS na UNIDEP - Pato Branco</h4>
+<h4 align = center> - 🤓 interesse em HTML, CSS, JS
+<h4 align = center> - 📕 habilidades em Java, SQL
+<h4 align = center> - 🔎 curioso de natureza
+

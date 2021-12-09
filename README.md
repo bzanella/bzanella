@@ -1,4 +1,4 @@
-<h2 align = center> Opa, bão?? Eu sou Bruno Zanella!! 🖖
+<h2 align = center> Opa, blz?? Eu sou Bruno Zanella!! 🖖
 
 <h4 align = center> - 🌱 Acadêmico de ADS
 <h4 align = center> - 🤓 interesse em HTML, CSS, JS

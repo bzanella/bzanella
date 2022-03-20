@@ -3,7 +3,7 @@
 
 <p>
 <h4> - 🌱 Acadêmico de ADS
-<h4> - 🤓 Habilidades em HTML, CSS, JS, SQL
+<h4> - 🤓 Habilidades em HTML, CSS, SQL
 <h4> - 📕 Estagiário de desenvolvimento em PEGA na Sistran.
 </i>
 </p>

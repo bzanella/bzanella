@@ -6,7 +6,7 @@
 <h4 align = center> - 📕 Estagiário de desenvolvimento em PEGA na Sistran.
 </i>
   
-</hr>
+<br/>
 
 <div align="center">
   <a href="https://github.com/bzanella">

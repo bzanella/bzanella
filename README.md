@@ -3,7 +3,8 @@
 
 <p>
 <h4> - 🌱 Acadêmico de ADS
-<h4> - 📕 Estagiário de desenvolvimento em PEGA na Sistran.
+<h4> - 📕 Estagiário de desenvolvimento PEGA na Sistran.
+<h4> - 🎓 Pega Certified System Architect 8.6 | PCSA 8.6
 </i>
 </p>
   

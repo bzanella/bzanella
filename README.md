@@ -1,4 +1,4 @@
-
+<div align="center">
 <i>
   <h2 align = center> Opa, blz?? Eu sou Bruno Zanella!! 🖖</h2>
 
@@ -6,7 +6,7 @@
 <h4> - 📕 Desenvolvedor PEGA na Sistran.
 <h4> - 🎓 Pega Certified System Architect 8.6 | PCSA 8.6
 </i>
-
+</div>
   
 <hr>
 

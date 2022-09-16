@@ -1,13 +1,13 @@
 <p align="right">
-    <a target="_blank" href="https://github.com/bzanella">
-        <img  target="_blank" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/bzanella">
+    <a  href="https://github.com/bzanella" target="_blank">
+        <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/bzanella">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="mailto:brunno.zanella@gmail.com">
+    <a href="mailto:brunno.zanella@gmail.com" target="_blank" >
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunno.zanella@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="https://www.linkedin.com/in/bruno-zanella-223566212/">
+    <a href="https://www.linkedin.com/in/bruno-zanella-223566212/" target="_blank" >
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/bruno-zanella-223566212/">
     </a>
 </p>

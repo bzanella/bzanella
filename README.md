@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
     <a  href="https://github.com/bzanella" target="_blank">
         <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/bzanella">
     </a>
@@ -26,7 +26,8 @@
 <p> - 🎓 Pega Certified System Architect 8.6 | PCSA 8.6
 </div>
 
-<br><br>
+<br>
+<br>
 
 ## Skills
 <div align="cent">

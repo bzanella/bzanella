@@ -1,16 +1,3 @@
-<p align="center">
-    <a  href="https://github.com/bzanella" target="_blank">
-        <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/bzanella">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:brunno.zanella@gmail.com" target="_blank" >
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunno.zanella@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/bruno-zanella-223566212/" target="_blank" >
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/bruno-zanella-223566212/">
-    </a>
-</p>
 
 <div align="center">
 
@@ -63,3 +50,21 @@
  <div align="center"> 
     <img alingn="center" src="https://profile-counter.glitch.me/bzanella/count.svg" />
  </div>
+ 
+ <br>
+ <br>
+ <hr>
+  
+ <p align="center">
+    <a  href="https://github.com/bzanella" target="_blank">
+        <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/bzanella">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:brunno.zanella@gmail.com" target="_blank" >
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunno.zanella@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/bruno-zanella-223566212/" target="_blank" >
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/bruno-zanella-223566212/">
+    </a>
+</p>

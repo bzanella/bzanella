@@ -15,21 +15,18 @@
 
 <br>
 <br>
-
 <br>
 
-
 ### Interesses <hr />
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   <img align="center" alt="Bruno-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-php" height="40" width="40" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
   <img align="center" alt="Bruno-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bruno-MySql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Bruno-flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
   <img align="center" alt="Bruno-pega" height="40" width="40" src="https://support.pega.com/sites/default/files/pega-user-image/128/REG-127907.png">
+  <img align="center" alt="Bruno-php" height="40" width="65" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
 </div>
 
 <br>

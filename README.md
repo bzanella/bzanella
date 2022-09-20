@@ -10,7 +10,7 @@
 
 <div>
 <p> - 📚 Acadêmico de ADS no UNIDEP/Afya Pato Branco - PR
-<p> - 💻 Analista Desenvolvedor PEGA na Sistran.
+<p> - 💻 Analista Desenvolvedor PEGA na Sistran Informática
 <p> - 🎓 Pega Certified System Architect 8.6 | PCSA 8.6
 </div>
 

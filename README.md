@@ -46,17 +46,18 @@
     <img alingn="center" src="https://profile-counter.glitch.me/bzanella/count.svg" />
  </div>
  
+<br>
+<br>
+  
+  <p align="center">
+    <a href="https://www.instagram.com/zanell.b/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:brunno.zanella@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
+    <a href="https://www.linkedin.com/in/bruno-zanella-223566212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+  
  <br>
  <br>
  <hr>
     
 ![snake gif](https://github.com/bzanella/bzanella/blob/output/github-contribution-grid-snake.svg)
-
- <br>
- <br>
  
- <p align="center">
-    <a href="https://www.instagram.com/zanell.b/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="mailto:brunno.zanella@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
-    <a href="https://www.linkedin.com/in/bruno-zanella-223566212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>

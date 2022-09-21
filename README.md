@@ -51,13 +51,10 @@
  <hr>
   
  <p align="center">
-    <a href="mailto:brunno.zanella@gmail.com" target="_blank" >
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunno.zanella@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/bruno-zanella-223566212/" target="_blank" >
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/bruno-zanella-223566212/">
-    </a>
+    <a href="https://www.instagram.com/zanell.b/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:brunno.zanella@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
+    <a href="https://www.linkedin.com/in/bruno-zanella-223566212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
 </p>
     
 ![snake gif](https://github.com/bzanella/bzanella/blob/output/github-contribution-grid-snake.svg)

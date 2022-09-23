@@ -32,7 +32,7 @@
 
 <br>
 <br>
-![pega-logo-vertical-positive-rgb-01 (1)](https://user-images.githubusercontent.com/90990132/192031814-908d7531-fa5f-4720-97aa-adad434f7a51.png)
+
 
 <div align="center">
   <a href="https://github.com/bzanella">

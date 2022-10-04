@@ -13,10 +13,7 @@
 <p> - 📚 Acadêmico de ADS no UNIDEP/Afya Pato Branco - PR
 <p> - 💻 Analista Desenvolvedor PEGA na Sistran Informática
 <p> - 🎓 Pega Certified System Architect 8.6 | PCSA 8.6
-</div>
-
-<br>
-<br>
+</div><br><br>
 <br>
 
 ### Interesses <hr />
@@ -28,35 +25,25 @@
   <img align="center" alt="Bruno-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bruno-MySql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Bruno-flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
-</div>
-
+</div><br>
 <br>
-<br>
-
 
 <div align="center">
   <a href="https://github.com/bzanella">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bzanella&show_icons=true&theme=dracula&include_all_commits=true&include_count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzanella&layout=compact&langs_count=10&theme=dracula"/>
-</div>
-
-<br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bzanella&show_icons=true&theme=algolia&include_all_commits=true&include_count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzanella&layout=compact&langs_count=10&theme=algolia"/>
+</div><br>
 <br>
 
  <div align="center"> 
     <img alingn="center" src="https://profile-counter.glitch.me/bzanella/count.svg" />
- </div>
- 
-<br>
+ </div><br>
 <br>
   
   <p align="center">
 <a href="https://www.instagram.com/zanell.b/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bruno-zanella-223566212/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
-  
- <br>
- <br>
+</p><br><br>
  <hr>
     
 ![snake gif](https://github.com/bzanella/bzanella/blob/output/github-contribution-grid-snake.svg)

@@ -28,7 +28,6 @@
   <img align="center" alt="Bruno-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bruno-MySql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Bruno-flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
-  <img align="center" alt="Bruno-php" height="40" width="75" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
 </div>
 
 <br>

@@ -19,11 +19,11 @@
 ### Interesses <hr />
 <div style="display: inline_block">
   <img align="center" alt="Bruno-pega" height="40" width="65" src="https://www.liblogo.com/img-logo/max/pe6928p232-pegasystems-logo-pegasystems-logo.png">
-  <img align="center" alt="Bruno-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
-  <img align="center" alt="Bruno-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Bruno-MySql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Bruno-Js" height="40" width="40" src="https://www.liblogo.com/img-logo/max/ja438j6d0-javascript-logo-javascript-logo-vector-eps-136-86-kb-download.png">   
+  <img align="center" alt="Bruno-HTML" height="40" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+  <img align="center" alt="Bruno-CSS" height="40" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+  <img align="center" alt="Bruno-java" height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+  <img align="center" alt="Bruno-MySql" height="40" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
   <img align="center" alt="Bruno-flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
 </div><br>
 <br>

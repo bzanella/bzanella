@@ -30,9 +30,10 @@
 
 <div align="center">
   <a href="https://github.com/bzanella">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bzanella&show_icons=true&theme=algolia&include_all_commits=true&include_count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzanella&layout=compact&langs_count=10&theme=algolia"/>
-</div><br>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bzanella&show_icons=true&theme=algolia&include_all_commits=true&include_count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bzanella&layout=compact&langs_count=10&theme=algolia"/>
+</div>
+<br>
 <br>
 
  <div align="center"> 

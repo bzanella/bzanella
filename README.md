@@ -20,8 +20,12 @@
   <img align="center" alt="Bruno-HTML" height="40" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
   <img align="center" alt="Bruno-CSS" height="40" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
   <img align="center" alt="Bruno-java" height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+  <img align="center" alt="Bruno-flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
   <img align="center" alt="Bruno-MySql" height="40" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
   <img align="center" alt="Bruno-flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
+  <img align="center" alt="Bruno-flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+  <img align="center" alt="Bruno-flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+  
 </div><br>
 <br>
 

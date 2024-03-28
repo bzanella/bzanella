@@ -9,22 +9,23 @@
 <div>
 <p> - 📚 Acadêmico de ADS no UNIDEP/Afya Pato Branco - PR
 <p> - 💻 Analista Desenvolvedor PEGA na Sistran Informática
-<p> - 🎓 Pega Certified System Architect 8.6 | PCSA 8.6
+<p> - 🎓 Pega Certified Senior System Architect 8.7 | PCSSA 8.7
 </div><br><br>
 <br>
 
 ### Interesses <hr />
 <div style="display: inline_block">
   <img align="center" alt="Bruno-pega" height="40" width="65" src="https://www.liblogo.com/img-logo/max/pe6928p232-pegasystems-logo-pegasystems-logo.png">
+  <img align="center" alt="Bruno-react" height="40" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img align="center" alt="Bruno-Js" height="40" width="40" src="https://www.liblogo.com/img-logo/max/ja438j6d0-javascript-logo-javascript-logo-vector-eps-136-86-kb-download.png">   
   <img align="center" alt="Bruno-HTML" height="40" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
   <img align="center" alt="Bruno-CSS" height="40" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
   <img align="center" alt="Bruno-java" height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-  <img align="center" alt="Bruno-flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  <img align="center" alt="Bruno-spring" height="40" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
   <img align="center" alt="Bruno-MySql" height="40" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
   <img align="center" alt="Bruno-flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
-  <img align="center" alt="Bruno-flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-  <img align="center" alt="Bruno-flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+  <img align="center" alt="Bruno-python" height="40" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+
   
 </div><br>
 <br>

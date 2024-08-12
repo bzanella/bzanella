@@ -7,9 +7,10 @@
 ### Sobre mim
 
 <div>
-<p> - 📚 Acadêmico de ADS no UNIDEP/Afya Pato Branco - PR
+<p> - 📚 Cursando Pós tech de Software Architecture na Fiap
+<p> - 🎓 Formado em ADS pela UNIDEP/Afya Pato Branco - PR
 <p> - 💻 Analista Desenvolvedor PEGA na Sistran Informática
-<p> - 🎓 Pega Certified Senior System Architect 8.7 | PCSSA 8.7
+<p> - 👨‍💻 Pega Certified Senior System Architect 8.7 | PCSSA 8.7
 </div><br><br>
 <br>
 

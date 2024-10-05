@@ -2,7 +2,7 @@
 
 # Opa, blz?? Eu sou Bruno Zanella!! 🖖 
 </div>
-<img align="right" width="450" height="250" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
+<img align="right" width="450" height="250" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" />
 
 ### Sobre mim
 
@@ -32,6 +32,7 @@
 </div><br>
 <br>
 
+<!--Github Stats-->
 <!--<div align="center">
   <a href="https://github.com/bzanella">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bzanella&show_icons=true&theme=algolia&include_all_commits=true&include_count_private=true"/>
@@ -52,7 +53,7 @@
 <a href="https://wa.me/+5546988021905" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 <a href="mailto:brunno.zanella@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bruno-zanella-223566212/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/zanell.b/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--<a href="https://www.instagram.com/zanell.b/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
 
 
     

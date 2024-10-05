@@ -6,7 +6,7 @@
 
 <img align="right" width="450" height="250" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" />
 
-<br/>
+<br>
 
 ### Sobre mim
 

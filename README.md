@@ -11,7 +11,6 @@
 ### Sobre mim
 
 <div>
-<p> - 📚 Cursando Pós tech de Software Architecture na Fiap
 <p> - 🎓 Formado em ADS pela UNIDEP/Afya Pato Branco - PR
 <p> - 💻 Analista Desenvolvedor PEGA na Capgemini Br
 <p> - 👨‍💻 Pega Certified Senior System Architect 8.7 | PCSSA 8.7
